@@ -1,0 +1,126 @@
+
+body{
+    background-color: #E11364;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: #BC105C;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 40px;
+    /* border-left-style: solid;
+    border-right-style: solid; */
+    border-left: 8px solid #ffffff;
+    border-right: 8px solid #ffffff;
+}
+.primer-div{
+    
+    background-color: #BC105C;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 40px;
+    border-radius: 1%;
+
+}
+.segundo-div{
+    color: #ffffff;
+    margin-bottom: 40px;
+    padding-left: 30px;
+    font-size: 25px;
+    
+    
+    
+
+}
+
+.tercer-div{
+    background-color: #ffffff;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 1%;
+
+}
+.mario{
+    margin-left: 25px;
+    width: 100%; height: auto;
+    
+    
+
+}
+.primer-h2{
+    color: #BC105C;
+    border-bottom: 5px dotted #BC105C; text-align:right;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-top: 45px;
+    font-weight: 900;
+}
+
+.cuarto-div{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.boton{
+    margin-top: 8px;  
+    margin-bottom:15px;  
+    margin-left: 48%;
+    font-size: 20px;
+    background-color: #2C8F20;
+    color: white;
+    border-radius: 10%;
+    padding: 10px;
+}
+.quinto-div{
+    
+    background-color: #BC105C;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 40px;
+    border-radius: 1%;
+
+}
+.sexto-div{
+    background-color: #ffffff;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 1%;
+
+}
+.segundo-h2{
+    color: #BC105C;
+    border-bottom: 5px dotted #BC105C; text-align:right;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-top: 45px;
+    font-weight: 900;
+}
+.mortal{
+    
+    margin-left: 25px;
+}
+.septimo-div{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.octavo-div{
+    background-color: #E96093;
+    color: #ffffff;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    border-radius: 5%;
+    
+}
